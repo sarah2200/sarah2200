@@ -1,16 +1,15 @@
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarah+Abdeldayem!;" />
 </h1>
 
-
 <h1 align="center">
   Welcome To My Space
-  <img src=<iframe src="https://giphy.com/embed/46zAJHxw7fh48qXpnP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-computer-keyboard-46zAJHxw7fh48qXpnP">via GIPHY</a></p>>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
+  <iframe src="https://giphy.com/embed/46zAJHxw7fh48qXpnP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-computer-keyboard-46zAJHxw7fh48qXpnP">via GIPHY</a></p>
 </div>
-
 
 <h1 align="center">
   Great Things Take Time
